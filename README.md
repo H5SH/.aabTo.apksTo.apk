@@ -8,7 +8,7 @@
 
 ## To Genrate Apks
 
-java -jar bundletool.jar build-apks --bundle=app.aab --output=app.apks --mode=universal --ks-key-alias=tomcat --ks=C:/H5SH/OtherImpStuff/keystore.jks --ks-pass=pass:1234hello1234 
+java -jar bundletool.jar build-apks --bundle=app.aab --output=app.apks --mode=universal --ks-key-alias=tomcat --ks=C:/H5SH/OtherImpStuff/keystore.jks --ks-pass=pass:1234hello1234
 
 ## TO Get apk from apks
 
